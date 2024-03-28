@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
 import Card from "@mui/material/Card";
 import Divider from "@mui/material/Divider";
 import Icon from "@mui/material/Icon";
-import ivana from "/Users/techi.s./Desktop/Shift & Leave mgmt sys/src/assets/images/ivana-square.jpg";
+import ivana from "../../../../assets/images/ivana-squares.jpg";
 import React from "react";
 
 // Soft UI Dashboard React components
